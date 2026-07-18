@@ -77,6 +77,7 @@ for p in r["publications"]:
     </div>"""
 
 langs = ", ".join(f"{esc(l['language'])} ({esc(l['fluency'])})" for l in r.get("languages", []))
+langs_html = f"<h2>Languages</h2><div>{langs}</div>" if langs else ""
 
 page = f"""<!DOCTYPE html>
 <html><head><meta charset="utf-8"><title>Resume of {esc(b['name'])}</title>
@@ -145,7 +146,7 @@ page = f"""<!DOCTYPE html>
       <h2>Education</h2>{edu}
       <h2>Skills</h2>{skills}
       <h2>Publications</h2>{pubs}
-      <h2>Languages</h2><div>{langs}</div>
+      {langs_html}
     </div>
     <div class="main">
       <h2>Summary</h2>

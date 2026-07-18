@@ -170,16 +170,7 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Professional"
-    },
-    {
-      "language": "Mandarin Chinese",
-      "fluency": "HSK Level 2"
-    }
-  ],
+  "languages": [],
   "interests": [
     {
       "name": "Outside work",
