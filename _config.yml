@@ -22,7 +22,7 @@ author:  # change following line to your infomation.
   github_username: yashg1  # Leave blank if you don't have now
   linkedin_id: yashganatra # Leave blank if you don't have now
   email: gyash@protonmail.com   # Leave blank if you don't have now
-  cv: /resources/resume/Yash_Ganatra_resume.pdf   # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: /resources/resume/resume.html   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-fire
@@ -33,7 +33,8 @@ author:  # change following line to your infomation.
   desc: |
         <strong> Welcome to my website! I am a thermal engineer who ships consumer electronics — I have spent 8+ years taking products like Apple's iPad Air and iPhone 17, and Amazon's Echo devices and Astro robot, from first concept through mass production.
         I specialize in thermal validation (IR imaging, thermocouples, automated test frameworks), thermal architecture, and developing software thermal management policies and test methods that scale across product lines.
-        I love ⚽ 🏓 📖 and learning languages (currently 🇨🇳 HSK Level 2). Also, I helped build a 🚗!
+        I love ⚽ 🏓 📖 and learning languages (currently 🇨🇳 HSK Level 2). Also, I helped build a 🚗! </strong>
+        <br><br> 10+ shipped products &nbsp;·&nbsp; $250K cost savings &nbsp;·&nbsp; 50% faster thermal testing &nbsp;·&nbsp; 3 journal & conference publications
 
 
 

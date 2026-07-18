@@ -4,8 +4,8 @@ groups:
   - name: Thermal Engineering
     icon: fa-fire
     items:
-      - Thermal architecture & design
       - Thermal validation & testing
+      - Thermal architecture & design
       - IR imaging & thermocouples
       - Software thermal management policies
       - Failure analysis

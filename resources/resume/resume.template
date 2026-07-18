@@ -22,6 +22,9 @@
             <div id="text-header" {{^photo}}style="margin-top: 90px;"{{/photo}}>
               <h1>{{basics.name}}<br>{{#basics.label}}<span>{{basics.label}}</span>{{/basics.label}}</h1>
             </div>
+            <div class="text-center hidden-print" style="margin-top: 14px;">
+              <a class="btn btn-primary" href="Yash_Ganatra_resume.pdf" target="_blank"><i class="fa fa-download"></i> Download PDF</a>
+            </div>
         </div>
       </div>
       <div class="row">
