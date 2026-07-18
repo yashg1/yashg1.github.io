@@ -31,10 +31,10 @@ author:  # change following line to your infomation.
     - name: fa-cogs
     - name: fas fa-wrench
   desc: |
-        <strong> Welcome to my website! I am a thermal engineer who ships consumer electronics — I have spent 8+ years taking products like Apple's iPad Air and iPhone 17, and Amazon's Echo devices and Astro robot, from first concept through mass production.
-        I specialize in thermal validation (IR imaging, thermocouples, automated test frameworks), evaluating thermal solutions, and developing software thermal management policies and test methods that balance performance with thermal comfort and safety.
-        I love ⚽ 🏓 📖 and learning languages (currently 🇨🇳 HSK Level 2). Also, I helped build a 🚗! </strong>
-        <br><br> 10+ shipped products &nbsp;·&nbsp; $250K cost savings &nbsp;·&nbsp; 50% faster thermal testing &nbsp;·&nbsp; 3 journal & conference publications
+        Welcome to my website! I am a thermal engineer who ships consumer electronics — I have spent 8+ years taking products like Apple's <strong>iPad Air</strong> and <strong>iPhone 17</strong>, and Amazon's <strong>Echo devices</strong> and <strong>Astro robot</strong>, from first concept through mass production.
+        I specialize in <strong>thermal validation</strong> (IR imaging, thermocouples, automated test frameworks), evaluating thermal solutions, and developing <strong>software thermal management policies</strong> and test methods that balance performance with thermal comfort and safety.
+        I love ⚽ 🏓 📖 and learning languages (currently 🇨🇳 HSK Level 2). Also, I helped build a 🚗!
+        <br><br> <strong>10+ shipped products &nbsp;·&nbsp; $250K cost savings &nbsp;·&nbsp; 50% faster thermal testing &nbsp;·&nbsp; 3 publications</strong>
 
 
 
