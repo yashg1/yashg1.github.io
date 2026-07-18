@@ -4,8 +4,8 @@
 locale: "en-US"
 
 title: Yash Ganatra
-description: Mech on Github!
-keywords: yash,yashganatra, yashg1, blog,Thermal Engineer, Mechanical Engineer, Mechanical Engineer blog, Heat transfer, CFD, Product Development
+description: Thermal engineer shipping consumer electronics — thermal design, validation and software thermal management at Apple and Amazon.
+keywords: yash,yashganatra, yashg1, blog,Thermal Engineer, Mechanical Engineer, Thermal Validation, Heat transfer, CFD, Consumer Electronics, Product Development, Apple, Amazon Lab126
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://yashg1.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -31,9 +31,9 @@ author:  # change following line to your infomation.
     - name: fa-cogs
     - name: fas fa-wrench
   desc: |
-        <strong> Welcome to my website! I am a persevering and multifaceted mechanical engineer who enjoys turning designs into products through efficient collaboration.
-        With experience in CAD, heat transfer, CFD, programing and hardware testing/troubleshooting, I can take on a variety of challenging roles. I like to keep learning and playing with the greatest and latest.
-        I love ⚽ 🏓 📖 and learning languages (currently 🇨🇳 HSK Level 2). Also, I helped build a 🚗! 
+        <strong> Welcome to my website! I am a thermal engineer who ships consumer electronics — I have spent 8+ years taking products like Apple's iPad Air and iPhone 17, and Amazon's Echo devices and Astro robot, from first concept through mass production.
+        I specialize in thermal validation (IR imaging, thermocouples, automated test frameworks), thermal architecture, and developing software thermal management policies and test methods that scale across product lines.
+        I love ⚽ 🏓 📖 and learning languages (currently 🇨🇳 HSK Level 2). Also, I helped build a 🚗!
 
 
 
@@ -107,5 +107,3 @@ defaults:
       read_time: true
       share: true
       related: true
-
-theme: jekyll-theme-midnight

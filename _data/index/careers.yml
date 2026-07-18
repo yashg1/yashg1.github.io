@@ -1,13 +1,27 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Thermal Engineer  @ [Amazon Lab126, USA](https://amazon.jobs/en/teams/lab126)
+    detail: Thermal Engineer (System Product Design) @ [Apple, USA](https://www.apple.com/)
+    i18n: company_g
+  desc:
+    detail: Thermal design and validation of iPad Air (6th & 7th gen) and iPhone 17 — from concept through mass production. Develop thermal test methods and software thermal management policies.
+    i18n: company_g_desc
+  date:
+    detail: August 2023 - Present
+    i18n: company_g_date
+  job:
+    detail: Work
+    i18n: company_g_job
+  icon: fa-apple
+
+- name:
+    detail: Thermal Engineer II @ [Amazon Lab126, USA](https://amazon.jobs/en/teams/lab126)
     i18n: company_a
   desc:
-    detail: Thermal testing and validation for consumer electronics.
+    detail: Thermal design and validation of Echo Dot (3rd & 5th gen), Echo Show 10, Echo Studio, Halo Rise and the Astro home robot. Led thermal validation of Amazon's first consumer robot and built Python test-automation frameworks that cut test time by 50%.
     i18n: company_b_desc
   date:
-    detail: December 2018 - Present
+    detail: December 2018 - July 2023
     i18n: company_b_date
   job:
     detail: Work
@@ -18,10 +32,10 @@
     detail: Product Engineer  @ [Syscon International, USA](http://syscon-intl.com/)
     i18n: company_a
   desc:
-    detail: Develop temperature measurement systems for the Iron & Steel industry.
+    detail: Developed portable temperature measurement systems for the Iron & Steel industry, from concept to manufacturing.
     i18n: company_a_desc
   date:
-    detail: January 2017 - October 2018
+    detail: February 2017 - October 2018
     i18n: company_a_date
   job:
     detail: Work
