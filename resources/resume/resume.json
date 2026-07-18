@@ -35,9 +35,11 @@
       "endDate": "",
       "summary": "Thermal testing and design of iPad Air (6th & 7th gen, 2024/2025) and iPhone 17 (2025).",
       "highlights": [
-        "Own thermal objectives from initial concept through launch and post-launch, applying expertise in heat transfer, thermal measurement techniques and software thermal management",
-        "Conduct field failure analysis to determine root cause and corrective action",
-        "Develop and implement frameworks to continually optimize thermal testing and data analysis"
+        "Own all thermal objectives from initial concept through launch, spanning thermal architecture, measurement and software thermal management",
+        "Analyze field metrics to understand real-world customer usage patterns and develop representative thermal tests",
+        "Set up a thermal validation lab at a vendor site and defined thermal test SOPs",
+        "Develop frameworks to continually optimize thermal testing and data analysis",
+        "Communicate thermal performance and risk to cross-functional teams, product managers and executives"
       ]
     },
     {
@@ -49,7 +51,7 @@
       "summary": "Thermal testing and design of Echo Dot (3rd & 5th gen), Echo (3rd gen), Echo Show 10, Echo Studio, Echo Flex, Halo Rise and the Astro home robot.",
       "highlights": [
         "Enabled $250k cost savings for Echo Dot by validating and assessing thermal risk during new product development",
-        "Led thermal validation of Amazon's first consumer robot (Astro) using flow and thermal measurement techniques",
+        "Led thermal validation of Amazon's first consumer robot (Astro), ensuring thermal health and safety",
         "Built a Python test-automation framework that cut test time by 50% by automating music/video streaming, display and LED control, and internal temperature and power capture",
         "Developed the Temperature Sensor feature on Echo Dot (5th gen) by collecting and processing large-scale device data with Python and Unix scripting"
       ]
@@ -62,8 +64,8 @@
       "endDate": "2018-10-19",
       "summary": "Developed portable temperature measurement systems from concept to manufacturing for the Iron & Steel industry.",
       "highlights": [
-        "Standardized thermocouple calibration and performed hardware and software prototype testing",
-        "Sped up product builds by 25% by developing algorithms to process field data in MATLAB",
+        "Standardized thermocouple calibration; tested and troubleshot hardware and software prototypes",
+        "Sped up product builds by 25% with MATLAB algorithms for processing field data",
         "Trained distributors and sales teams; presented at AFS and AIST industry conferences"
       ]
     },
@@ -75,9 +77,9 @@
       "endDate": "2016-12-06",
       "summary": "Master's thesis: cooling smartphones using Phase Change Materials.",
       "highlights": [
-        "Developed a passive cooling solution for consumer electronics achieving a 5% reduction in processor temperatures",
+        "Developed a passive cooling solution for consumer electronics, cutting processor temperatures by 5%",
         "Performed thermal design and CFD analysis in COMSOL and Ansys Fluent; validated with IR camera and thermocouple measurements",
-        "Published and presented at ASME InterPACK and in the International Journal of Thermal Sciences"
+        "Published in the International Journal of Thermal Sciences; presented at ASME InterPACK"
       ]
     }
   ],
