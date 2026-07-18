@@ -5,7 +5,7 @@
     "picture": "",
     "email": "gyash@protonmail.com",
     "website": "https://yashg1.github.io",
-    "summary": "Thermal engineer who ships consumer electronics. 8+ years taking products from first concept through mass production — thermal architecture, thermal validation (IR imaging, thermocouples, automated test frameworks), and software thermal management policies and test methods that scale across product lines.",
+    "summary": "Thermal engineer who ships consumer electronics. 8+ years taking products from first concept through mass production — thermal validation (IR imaging, thermocouples, automated test frameworks), thermal simulation, evaluation of thermal solutions, and software thermal management policies that balance performance with thermal comfort and safety.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,11 +35,12 @@
       "endDate": "",
       "summary": "Thermal testing and design of iPad Air (6th & 7th gen, 2024/2025) and iPhone 17 (2025).",
       "highlights": [
-        "Own all thermal objectives from initial concept through launch, spanning thermal architecture, measurement and software thermal management",
-        "Analyze field metrics to understand real-world customer usage patterns and develop representative thermal tests",
-        "Set up a thermal validation lab at a vendor site and defined thermal test SOPs",
-        "Develop frameworks to continually optimize thermal testing and data analysis",
-        "Communicate thermal performance and risk to cross-functional teams, product managers and executives"
+        "Own all thermal objectives from initial concept through launch, defining software thermal management policies that balance performance and thermal comfort",
+        "Characterize thermal performance across real-world use cases — benchmarks, gaming, video streaming, charging, camera — and analyze field metrics to mirror customer usage in tests",
+        "Define touch-temperature limits through user perception studies; design virtual temperature sensors that predict skin hotspots and cut test time",
+        "Evaluate feasibility and performance of thermal solutions: graphite spreaders, graphite-wrapped foams, copper sheets and TIMs",
+        "Partner with power teams to define and validate use-case power budgets, driving EE optimizations when power exceeds targets",
+        "Commissioned a thermal validation lab at a vendor site and authored thermal test SOPs"
       ]
     },
     {
@@ -51,7 +52,8 @@
       "summary": "Thermal testing and design of Echo Dot (3rd & 5th gen), Echo (3rd gen), Echo Show 10, Echo Studio, Echo Flex, Halo Rise and the Astro home robot.",
       "highlights": [
         "Enabled $250k cost savings for Echo Dot by validating and assessing thermal risk during new product development",
-        "Led thermal validation of Amazon's first consumer robot (Astro), ensuring thermal health and safety",
+        "Led thermal validation of Amazon's first consumer robot (Astro) against TS-1/TS-2 thermal safety specs",
+        "Developed virtual temperature sensors to predict skin hotspots across safety validation tests, reducing test time",
         "Built a Python test-automation framework that cut test time by 50% by automating music/video streaming, display and LED control, and internal temperature and power capture",
         "Developed the Temperature Sensor feature on Echo Dot (5th gen) by collecting and processing large-scale device data with Python and Unix scripting"
       ]
@@ -77,8 +79,7 @@
       "endDate": "2016-12-06",
       "summary": "Master's thesis: cooling smartphones using Phase Change Materials.",
       "highlights": [
-        "Developed a passive cooling solution for consumer electronics, cutting processor temperatures by 5%",
-        "Performed thermal design and CFD analysis in COMSOL and Ansys Fluent; validated with IR camera and thermocouple measurements",
+        "Developed and validated a passive cooling solution (COMSOL, Ansys Fluent, IR camera, thermocouples), cutting processor temperatures by 5%",
         "Published in the International Journal of Thermal Sciences; presented at ASME InterPACK"
       ]
     }
@@ -142,10 +143,11 @@
       "name": "Thermal Engineering",
       "keywords": [
         "Thermal validation & testing",
-        "Thermal architecture & design",
-        "IR imaging & thermocouples",
-        "Software thermal management policies",
-        "Failure analysis"
+        "Touch-temperature limits & user perception studies",
+        "Virtual temperature sensors (skin-hotspot prediction)",
+        "Thermal solutions: graphite spreaders, foams, TIMs",
+        "IR imaging, thermocouples & DAQ",
+        "Software thermal management policies"
       ]
     },
     {
@@ -161,6 +163,7 @@
       "name": "Product Development & Programming",
       "keywords": [
         "Consumer electronics development (xVT)",
+        "Use-case & power budget testing",
         "Test automation frameworks",
         "Python & Unix scripting",
         "MATLAB & data analysis"

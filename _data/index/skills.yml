@@ -5,10 +5,11 @@ groups:
     icon: fa-fire
     items:
       - Thermal validation & testing
-      - Thermal architecture & design
-      - IR imaging & thermocouples
+      - Touch-temperature limits & user perception studies
+      - Virtual temperature sensors (skin-hotspot prediction)
+      - "Thermal solutions: graphite spreaders, foams, TIMs"
+      - IR imaging, thermocouples & DAQ
       - Software thermal management policies
-      - Failure analysis
   - name: Simulation & CAD
     icon: fa-desktop
     items:
@@ -20,6 +21,7 @@ groups:
     icon: fa-cogs
     items:
       - Consumer electronics development (xVT)
+      - Use-case & power budget testing
       - Test automation frameworks
       - Python & Unix scripting
       - MATLAB & data analysis
