@@ -108,7 +108,7 @@ Heat conduction equations for macroscale assume that the transport properties ar
 
   - Developing Micro/nanoscale heat transport model in COMSOL
 
-* Running COMSOL simulations from MATLAB with [COMSOL MATLAB LiveLink](https://www.comsol.com/release/5.3/livelink-matlab)
+* Running COMSOL simulations from MATLAB with [COMSOL MATLAB LiveLink](https://www.comsol.com/livelink-for-matlab)
 
 * Understanding and simplifying new physics (governing equations)
 

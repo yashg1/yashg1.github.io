@@ -57,7 +57,7 @@
   icon: fas fa-graduation-cap
 
 - name:
-    detail: Undergrad in Mechanical Engineering @ [Vellore Institute of Technology, India](http://chennai.vit.ac.in/)
+    detail: Undergrad in Mechanical Engineering @ [Vellore Institute of Technology, India](https://chennai.vit.ac.in/)
     i18n: company_c
   desc:
     detail:
@@ -71,7 +71,7 @@
   icon: fa-graduation-cap
 
 - name:
-    detail: Powertrain Engineer @ [The RoadRunners](http://www.theroadrunners.co.in/about)
+    detail: Powertrain Engineer @ The RoadRunners
     i18n: company_d
   desc:
     detail: Built an off-road vehicle for BAJA SAE [Read more..](https://yashg1.github.io/portfolio/2018/06/30/baja.html)
